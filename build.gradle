@@ -28,6 +28,7 @@ dependencies {
     implementation 'com.itextpdf:sign:7.2.5'
     implementation 'org.jfree:jfreechart:1.5.4'
     implementation 'org.jfree:jcommon:1.0.24'
+    implementation 'com.google.zxing:core:3.5.1'
 }
 
 application {
